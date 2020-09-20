@@ -25,8 +25,7 @@ I am Mohammmed moutawakkkil, a self taught programmer, I love the world of codin
  ```c#
  class WhoAmI{
   string	user = "mohammed moutawakkil ";
-	current_edu = "Istag Bab Tizimi, Morocco"
-	list<string>hobbies =new list<string> {
+  public list<string>hobbies =new list<string> {
 				"playing guitar and oud and piano",
 				"singing",
 				"coding",
@@ -34,7 +33,7 @@ I am Mohammmed moutawakkkil, a self taught programmer, I love the world of codin
          "kick boxing.."
 			};
   
-  list<string> 📚Skills_&_Endorsements =new list<string> 
+  public list<string> 📚Skills_&_Endorsements =new list<string> 
 	{
   "C  Programming Language",
   "C# Programming Language",
