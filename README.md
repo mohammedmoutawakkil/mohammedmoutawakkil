@@ -12,7 +12,7 @@ I am Mohammmed moutawakkkil, a self taught programmer, I love the world of codin
 
 
 ## :computer: Technologies I Love
-* developping using  C, C#, SQL, Shellscript
+* Programing
 * Machine Learning
 
 
