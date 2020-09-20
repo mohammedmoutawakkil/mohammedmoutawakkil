@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**mohammedmoutawakkil/mohammedmoutawakkil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="centre" >Hi,I'm Mohammed Moutawakkil 👋</h1> 
+<hr/>
+I am Moutawakkil Mohammed, a self taught programmer.<br/> Even though I am a Medium level programmer , I love the world of coding
+<h1 align="centre" >💻 Skills & Endorsements</h1> 
+<hr/>
+<ul>
+  <li>C  Programming Language</li> 
+  <li>C# Programming Language</li> 
+  <li>Sql</li> 
+  <li>Applied Mathematics</li>
+  <li>Algorithms</li> 
+  <li>HTML</li> 
+  <li>Css</li> 
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
