@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://i.imgur.com/OTKgDSt.gif" width="400" height="300" />
 
-I am Mohammmed moutawakkkil, a self taught programmer, I love the world of coding.
+I am Mohammed moutawakkkil, a self taught programmer, I love the world of coding.
 
 
 <br/>
