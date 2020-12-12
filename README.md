@@ -41,7 +41,7 @@ I am Mohammmed moutawakkkil, a self taught programmer, I love the world of codin
   "Sql",
   "Applied Mathematics",
   "Algorithms",
-  "Front-End",
+  "full-stuck",
   "shellscript"
   };
 	public string getCity(){
