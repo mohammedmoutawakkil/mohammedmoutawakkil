@@ -3,7 +3,7 @@
 <img src="Orange and Navy Blue Modern Sporty Men's Fitness Quotes Facebook Cover.png"/>
 <h1 align="centre" >Hi,I'm Mohammed Moutawakkil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> 
 
-<img align="right" alt="GIF" src="https://i.imgur.com/OTKgDSt.gif" width="400" height="300" />
+
 
 I am Mohammmed moutawakkkil, a self taught programmer, I love the world of coding.
 
