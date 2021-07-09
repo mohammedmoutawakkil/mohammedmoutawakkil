@@ -25,31 +25,34 @@ I am Mohammmed moutawakkkil, a self taught programmer, I love the world of codin
  ## Who am I?
  ```c#
  class WhoAmI{
-  string	user = "mohammed moutawakkil ";
-  public list<string>hobbies =new list<string> {
-				"playing guitar and oud and piano",
-				"singing",
-				"coding",
-				"traveling",
-         "kick boxing.."
-			};
+  string user = "mohammed moutawakkil ";
   
-  public list<string> 📚Skills_&_Endorsements =new list<string> 
+  public list<string> 📚Programming Language =new list<string> 
 	{
-  "C  Programming Language",
-  "C# Programming Language",
-  "Sql server",
-  "Applied Mathematics",
-  "Algorithms",
-  "full-stuck",
-  "Ole DB"
-  "Bootstrap";
-  };
-	public string getCity(){
-		retrun "Meknes_Morocco";
-	}
+	  "C",
+	  "C#",
+	  "php",
+	  "Js",
+	  "Sql -> Sql server",
+	  "Sql -> MySql"
+        };
 	
-	public Overrid ToString(){
+  public list<string> 📚framework =new list<string> 
+	{
+	  "Bootstrap",
+	  "JQuery",
+	  "Laravel"
+        };
+  public list<string> 📚Other Skills =new list<string> 
+	{
+	   "Applied Mathematics",
+	   "Algorithms",
+	   "UML",
+	   "Merise"
+        };		
+
+   public Overrid ToString()
+   	{
 		return "- 💬 Ask me about anything, I am happy to help, contact me";
 	}
    }
@@ -65,7 +68,6 @@ I am Mohammmed moutawakkkil, a self taught programmer, I love the world of codin
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmoutawakkil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
 <a href="https://www.instagram.com/moutawakkil_mohamed/">
   <img align="left" alt="moutawakkilmohamed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -78,13 +80,6 @@ I am Mohammmed moutawakkkil, a self taught programmer, I love the world of codin
 </a>
 
 
-
-
-
-
-
-
-<p align="center"><a href="https://github.com/mohammedmoutawakkil"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 
 
