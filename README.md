@@ -27,7 +27,7 @@ I am Mohammmed moutawakkkil, a self taught programmer, I love the world of codin
  class WhoAmI{
   string user = "mohammed moutawakkil ";
   
-  public list<string> 📚Programming Language =new list<string> 
+  public list<string> 📚Programming_Language =new list<string> 
 	{
 	  "C",
 	  "C#",
@@ -37,13 +37,13 @@ I am Mohammmed moutawakkkil, a self taught programmer, I love the world of codin
 	  "Sql -> MySql"
         };
 	
-  public list<string> 📚framework =new list<string> 
+  public list<string> 📚Framework =new list<string> 
 	{
 	  "Bootstrap",
 	  "JQuery",
 	  "Laravel"
         };
-  public list<string> 📚Other Skills =new list<string> 
+  public list<string> 📚Other_Skills =new list<string> 
 	{
 	   "Applied Mathematics",
 	   "Algorithms",
