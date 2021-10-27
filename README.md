@@ -41,7 +41,8 @@ I am Mohammmed moutawakkkil, a self taught programmer, I love the world of codin
 	{
 	  "Bootstrap",
 	  "JQuery",
-	  "Laravel"
+	  "Laravel",
+	  "vuejs"
         };
   public list<string> 📚Other_Skills =new list<string> 
 	{
