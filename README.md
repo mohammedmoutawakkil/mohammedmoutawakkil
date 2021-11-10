@@ -14,13 +14,6 @@ I am Mohammmed moutawakkkil, a self taught programmer, I love the world of codin
 
 ## :computer: Technologies I Love
 * Programing
-* Machine Learning
-
-
-## Languages & Frameworks & Tools
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>  <img src = 'https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67' width='30'/> <img src = 'https://camo.githubusercontent.com/ee7c2a37b02913fa0c8391d5ac4902336333e57dde7ab47ace2fb2e01ed1682e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667' width='30'/> <img src = 'https://camo.githubusercontent.com/3bc5e199a55ef7d2bf6a25819cdefe32630a80a258d2c3c6118130bc4e3a7aad/68747470733a2f2f69636f6e732d666f722d667265652e636f6d2f69636f6e66696c65732f706e672f3531322f646576656c6f706d656e742b6c6f676f2b6d7973716c2b69636f6e2d313332303138343830373638363735383131322e706e67' height='30'/><img src = 'https://camo.githubusercontent.com/b8da30e438a0a89936cf532527d50b8af5a6a4e9/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f323937302f323937303533332e737667' height='30'/><img src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'  height='30'/><img src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'  height='30'/><img src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'  height='30'/>
- 
-
 
  ## Who am I?
  ```c#
