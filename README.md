@@ -3,7 +3,7 @@
 
 
 
-I am Mohammmed moutawakkkil, a self taught programmer, I love the world of coding.
+A self taught programmer, I love the world of coding.
 
 
 <br/>
