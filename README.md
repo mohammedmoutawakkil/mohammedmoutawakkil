@@ -13,45 +13,6 @@ A self taught programmer, I love the world of coding.
 ## :computer: Technologies I Love
 * Programing
 
- ## Who am I?
- ```c#
- class WhoAmI{
-  string user = "mohammed moutawakkil ";
-  
-  public list<string> 📚Programming_Language =new list<string> 
-	{
-	  "C",
-	  "C#",
-	  "php",
-	  "Js",
-	  "Sql -> Sql server",
-	  "Sql -> MySql"
-        };
-	
-  public list<string> 📚Framework =new list<string> 
-	{
-	  "Bootstrap",
-	  "JQuery",
-	  "Laravel",
-	  "vuejs"
-        };
-  public list<string> 📚Other_Skills =new list<string> 
-	{
-	   "Applied Mathematics",
-	   "Algorithms",
-	   "UML",
-	   "Merise"
-        };		
-
-   public Overrid ToString()
-   	{
-		return "- 💬 Ask me about anything, I am happy to help, contact me";
-	}
-   }
-		
- ```
- 
-
 ![mohammedmoutawakkil's github stats](https://github-readme-stats.vercel.app/api?username=mohammedmoutawakkil&show_icons=true&hide=[%22issues%22])
  
  
