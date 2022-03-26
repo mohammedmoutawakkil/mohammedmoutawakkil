@@ -11,7 +11,7 @@ A self taught programmer, I love the world of coding.
 <br/>
 
 ## :computer: Technologies I Love
-* Programing
+* Programming
 
 ![mohammedmoutawakkil's github stats](https://github-readme-stats.vercel.app/api?username=mohammedmoutawakkil&show_icons=true&hide=[%22issues%22])
  
