@@ -5,7 +5,7 @@
 
 <div align='left'>
   
-## WHO I'M 
+## Who I am
 >  I am a Full Stuck Programmer, interested in everything related to the field of Programming.
 <img align='right' src="https://media2.giphy.com/media/wogIubFweiBkn6y8KU/giphy.gif" width="100px">
 
