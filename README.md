@@ -1,42 +1,24 @@
 ![qvnr99hsc5c71](https://user-images.githubusercontent.com/70536218/143197563-836157dd-2246-4cf9-b5ac-b894f09afc11.png)
 <h1 align="centre" >Hi,I'm Mohammed Moutawakkil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> 
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=s0v1x&show_icons=true&theme=dark&hide_border=true&hide_title=true" width="360">
 
-
-A self taught programmer, I love the world of coding.
-
-
-<br/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%232EB09E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br/>
-
-## :computer: Technologies I Love
-* Programming
-
-![mohammedmoutawakkil's github stats](https://github-readme-stats.vercel.app/api?username=mohammedmoutawakkil&show_icons=true&hide=[%22issues%22])
- 
- 
- 
-
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmoutawakkil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align='left'>
   
+## WHO I'M 
+>  I am a Full Stuck Programmer, interested in everything related to the field of Programming.
+<img align='right' src="https://media2.giphy.com/media/wogIubFweiBkn6y8KU/giphy.gif" width="100px">
 
-<a href="https://www.instagram.com/moutawakkil_mohamed/">
-  <img align="left" alt="moutawakkilmohamed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/moutawakkil40/">
-  <img align="left" alt="moutawakkilmohamed's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.linkedin.com/in/mohammed-moutawakkil-322ab81b3/">
-  <img align="left" alt="moutawakkilmohamed's linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</div>
 
+## Where to find me :
 
-
-
-
-	
-
-
-
+<p align='center'>
+<p align='left'>
+  <a href="https://www.linkedin.com/in/mohammed-moutawakkil-322ab81b3/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://mwk.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/me-portfolio-black?style=for-the-badge" />        
+  </a>&nbsp;&nbsp;
+</p>
