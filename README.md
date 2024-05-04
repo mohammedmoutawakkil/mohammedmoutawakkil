@@ -10,4 +10,4 @@
 
 ---
 ### Support :
-<a href="https://www.buymeacoffee.com/moutawakkil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+![bmc_qr](https://github.com/mohammedmoutawakkil/mohammedmoutawakkil/assets/70536218/a47e61a5-3ee8-4566-b6c9-913f2dc6e557)
